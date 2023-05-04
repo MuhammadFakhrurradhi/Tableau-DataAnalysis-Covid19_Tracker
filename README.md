@@ -1,5 +1,4 @@
-![Global Vaccine Tracker (1)](https://user-images.githubusercontent.com/131879017/236297690-6d40fbdf-4a2b-482d-b5a5-dc10ad4a6717.png)
-# Tableau-DataAnalysis-Covid19_Tracker
+
  
 I'm excited to share that I've created a COVID-19 tracker dashboard today! Creating this dashboard was a great experience for me as it allowed me to improve my analytical thinking skills and utilize various tools.
 
